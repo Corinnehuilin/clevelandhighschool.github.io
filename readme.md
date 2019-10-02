@@ -19,7 +19,6 @@
 -   [CHS College and Career Website](https://clevelandccc.weebly.com/){:target="_blank"}
 
 ## Table of Contents
-
 -   [Python](#Python)
 -   [HTML & CSS](#HTML+CSS)
 -   [Chrome Extensions](#chrome-extensions)
@@ -50,7 +49,7 @@
 -   [Google Classroom Tutorials](https://developers.google.com/edu/python/){:target="_blank"}
 -   [Awesome Python](https://awesome-python.com/){:target="_blank"}
 
-### HTML+CSS
+### HTML + CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp){:target="_blank"}
 -   [DASH](https://dash.generalassemb.ly/){:target="_blank"}
 
@@ -73,7 +72,7 @@
 -   [Web Resizer](http://webresizer.com/resizer/){:target="_blank"}
 -   [Remove Background](https://www.remove.bg/){:target="_blank"}
  
-### Github
+### GitHub
 -   [How to Create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request){:target="_blank"}
 -   [Learn Git Branching](https://learngitbranching.js.org/){:target="_blank"}
 -   [How to use Git and Github Video Tutorials](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV){:target="_blank"}
